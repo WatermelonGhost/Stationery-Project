@@ -1,7 +1,34 @@
-# Stationery-Project
+# Stationery mall
+<div>
+    <img width="150" src="https://github.com/WatermelonGhost/Stationery_Project/assets/133719719/72ad6463-62bc-4e2d-9404-b6b1234e8e58">
+</div>
+문구 쇼핑몰 웹 사이트
 
-이 프로젝트는 문구 판매를 위한 쇼핑몰 웹 개발 프로젝트입니다. Spring Boot와 MyBatis를 활용하여 백엔드를 구축하였고, JavaScript, HTML5, CSS3, jQuery, Ajax, Servlet을 사용하여 프론트엔드를 구현하였습니다. 또한 OracleDB를 이용하여 데이터베이스를 관리하였습니다. 팀원들과 협력하여 요구사항을 분석하고 설계하며, 구현하고 버그를 수정하고 성능을 향상시키는 작업을 수행하였습니다.
+<br><br>
 
-이 프로젝트에서는 문구 판매를 위한 쇼핑몰 웹 애플리케이션을 개발하기 위해 다양한 기술과 도구를 사용하였습니다. 백엔드 개발에는 Spring Boot와 MyBatis를 선택하여 데이터베이스와의 상호 작용을 효율적으로 처리하였고, 프론트엔드 개발에는 JavaScript, HTML5, CSS3, jQuery, Ajax, Servlet을 사용하여 사용자 친화적인 인터페이스를 구현하였습니다. 또한 OracleDB를 통해 데이터의 안정적인 관리와 조작을 수행하였습니다.
+## 프로젝트의 목적
+문구류를 카테고리 별로 나누어 볼 수 있고 구매할 수 있도록 만든 문구 쇼핑몰 웹 사이트 입니다.
 
-팀원들과의 협력을 통해 요구사항을 정확히 분석하고 설계하여 효율적인 구현을 진행하였습니다. 또한 버그 수정과 성능 개선을 위한 작업을 지속적으로 수행하며, 프로젝트의 성공적인 완료를 위해 최선을 다하였습니다. 이 프로젝트를 통해 우리는 문구 판매를 위한 신뢰성 높은 쇼핑몰 웹 애플리케이션을 개발하는 경험을 쌓을 수 있었습니다.
+<br>
+
+## 프로젝트 기술 소개
+프로젝트에 사용된 언어와 기술, ERD와 개발환경 등을 소개합니다.
+
+### 사용언어 Main Languages
+- Java
+- JavaScript
+- HTML5
+- CSS3
+
+### ERD
+<div>
+	<img src="https://github.com/WatermelonGhost/Stationery_Project/assets/133719719/1b7c4c5e-f7a7-460e-8ea6-590dab95c9f5">
+</div>
+이 프로젝트의 DB는 8개의 테이블으로 이루어져 있습니다.
+
+### 개발환경
+* Eclipse IDE/ Spring boot
+* Visual Studio Code
+* Apache Tomcat
+* Oracle 11g
+
