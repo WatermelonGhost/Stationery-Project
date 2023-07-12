@@ -22,7 +22,7 @@
 
 ### ERD
 <div>
-	<img src="https://github.com/WatermelonGhost/Stationery_Project/assets/133719719/1b7c4c5e-f7a7-460e-8ea6-590dab95c9f5">
+	<img width="833" alt="문구 쇼핑몰 ERD" src="https://github.com/WatermelonGhost/JJal_Project/assets/133719719/4654c2cb-ebb5-455d-b9ad-f305e6cb605d">
 </div>
 이 프로젝트의 DB는 8개의 테이블으로 이루어져 있습니다.
 
